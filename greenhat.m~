@@ -1,0 +1,3 @@
+% Greenhat
+close all;
+img = imread('./lenna.jpeg');
